@@ -5,3 +5,5 @@ Climb-Bot uses Google's search engine API as a NLP engine and for extracting rou
 To run the bot, you may register an API key at https://cse.google.com
 
 Route metadata is extracted from theCrag.com; Reddit API accessed through PRAW (Python Reddit API Wrapper)
+
+Currently in the process of implementing the fastText NLP model to assist in classification of route names. 
